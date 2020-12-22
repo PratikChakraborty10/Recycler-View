@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview Example</string>
+    <string name="country_flag">country_flag</string>
+    <string name="show_countries">SHOW COUNTRIES</string>
+</resources>
